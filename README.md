@@ -6,7 +6,7 @@ shoutout to people/website that help me make this README:
 -->
 <div align="left">
 <img src="https://github.com/Molimen/Molimen/blob/main/assets/1.jpg" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=100&multiline=true&repeat=false&width=380&height=60&lines=Hello+yall;I'm+Molimen%2C+a+hobbyist+on+MCU!" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=100&multiline=true&repeat=false&width=380&height=60&lines=Hello+yall;I'm+Molimen%2C+a+hobbyist+on+MCU!" width="70%" />
 
 <h3 align="left">ℹ About Me</h3>
 
