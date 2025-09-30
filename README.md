@@ -29,4 +29,11 @@ shoutout to people/website that help me make this README:
   - Go Hiking
   - Enter a Hackathon
 
+<be>
+
+<h3 align="left">📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎</h3>
+
+---
+- <h4 align="left">✉ You can reach me using email in my GitHub profile.</h4>
+
 <div>
